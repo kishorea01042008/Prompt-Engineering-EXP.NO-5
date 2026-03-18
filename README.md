@@ -14,3 +14,4 @@ Prepare Multiple Test Scenarios: Select various scenarios such as: Generating a 
 OUTPUT:
 
 RESULT: 
+       Basic prompts are quick but lack but refined prompts produce superior result.As refined prompt is best for getting better fit result and approximation.
